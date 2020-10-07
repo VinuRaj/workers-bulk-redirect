@@ -1,0 +1,4 @@
+name = "workers-bulk-redirect"
+account_id = "90ca6c6e2a29d1f5735b090614a93897" # diagramz.workers.dev
+type = "webpack"
+workers_dev = true

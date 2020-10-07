@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "workers-bulk-redirect",
+    "version": "0.1.0",
+    "description": "Website bulk URL redirect (301 or 302) with Cloudflare Workers",
+    "author": "Varma",
+    "main": "redirect.js",
+    "license": "MIT"
+}
