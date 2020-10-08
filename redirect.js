@@ -1,8 +1,8 @@
 const redirectMap = new Map([
-  ["/wordops", "https://tutorialforest.com/build-performance-optimized-wordpress-wordops"],
-  ["/snippets", "https://tutorialforest.com/topics/snippets"],
-  ["/offers", "https://tutorialforest.com/deals"],
-  ["/gotogoogle", "https://google.com"],
+  ["/bulkurl1", "https://mysite.com/newurl1"],
+  ["/bulkurl2", "https://mysite.com/newurlt2"],
+  ["/bulkurl3", "https://mysite.com/newurl3"],
+  ["/bulkurl4", "https://mysite.com/newurl4"],
 ])
 
 async function handleRequest(request) {
